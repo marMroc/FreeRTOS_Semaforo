@@ -22,10 +22,8 @@ Este projeto teve como objetivo o desenvolvimento de um projeto prático com Ard
 ## Circuito esquemático: 
 <a name="id03"></a><img style="width:500px;" src="https://github.com/marMroc/FreeRTOS_Semaforo/blob/main/img_freertos.jpg" >
 ## Bibliotecas: <a name="id04"></a>
-- FreeRTOS (by Richard Barry) versão 10.0.0-10
- - - Possível instalar no FreeRTOS IDE apenas realizando a busca pelo nome
-- Sensor Ultrassônico (HC-SR04)
- - -  Disponível no reposítório: https://github.com/makerhero/Ultrasonic
+- FreeRTOS (by Richard Barry) versão 10.0.0-10 (Possível instalar no FreeRTOS IDE apenas realizando a busca pelo nome)
+- Sensor Ultrassônico (HC-SR04) (Disponível no reposítório: https://github.com/makerhero/Ultrasonic)
 
 ## Desafios: <a name="id05"></a>
 
@@ -44,3 +42,4 @@ Utilizar os conceitos de FreeRTOS para dividir as ações do sistema em tarefas 
 - Realizar o planejamento e análise de requisitos do sistema para evitar condições de corrida e deadlock.
 - Sincronizar e realizar a comunicação entre as tarefas.
 - Fixar conceitos de gerenciamento de memória.
+)
