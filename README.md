@@ -20,7 +20,7 @@ Este projeto teve como objetivo o desenvolvimento de um projeto prático com Ard
 - Sensor de gases inflamáveis MQ-2
 
 ## Circuito esquemático: 
-<a name="id03"></a><img style="width:1000px;" src="https://github.com/marMroc/FreeRTOS_Semaforo/blob/main/img_freertos.jpg" >
+<a name="id03"></a><img style="width:500px;" src="https://github.com/marMroc/FreeRTOS_Semaforo/blob/main/img_freertos.jpg" >
 ## Bibliotecas: <a name="id04"></a>
 - FreeRTOS (by Richard Barry) versão 10.0.0-10
  Possível instalar no FreeRTOS IDE apenas realizando a busca pelo nome
