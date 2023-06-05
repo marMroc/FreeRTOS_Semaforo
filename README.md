@@ -36,9 +36,9 @@ Utilizar os conceitos de FreeRTOS para dividir as ações do sistema em tarefas 
 
  As tarefas foram divididas da seguinte forma:
 
-Tarefa 1: Ler a distância com o sensor ultrassônico a cada meio segundo e enviar as leituras para a tarefa 3, além de escrever no serial monitor a cada leitura feita.
-Tarefa 2: Ler os gases inflamáveis presentes a cada segundo, além de realizar o envio destas leituas para a tarefa 3, escrevendo no serial monitor a cada leitura feita.
-Tarefa 3: Exibir no display LCD as leituras enviadas pelas tarefas 1 e 2. 
+- Tarefa 1: Ler a distância com o sensor ultrassônico a cada meio segundo e enviar as leituras para a tarefa 3, além de escrever no serial monitor a cada leitura feita.
+- Tarefa 2: Ler os gases inflamáveis presentes a cada segundo, além de realizar o envio destas leituas para a tarefa 3, escrevendo no serial monitor a cada leitura feita.
+- Tarefa 3: Exibir no display LCD as leituras enviadas pelas tarefas 1 e 2. 
 
 ## Aprendizados: <a name="id07"></a>
 - Fixação dos conceitos de sistemas operacionais em tempo real, como tarefas, semáforos, filas e gerenciamento de memória.
