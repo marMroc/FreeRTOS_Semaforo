@@ -41,5 +41,3 @@ Utilizar os conceitos de FreeRTOS para dividir as ações do sistema em tarefas 
 - Fixação dos conceitos de sistemas operacionais em tempo real, como tarefas, semáforos, filas e gerenciamento de memória.
 - Realizar o planejamento e análise de requisitos do sistema para evitar condições de corrida e deadlock.
 - Sincronizar e realizar a comunicação entre as tarefas.
-- Fixar conceitos de gerenciamento de memória.
-)
