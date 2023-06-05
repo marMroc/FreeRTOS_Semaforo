@@ -23,9 +23,9 @@ Este projeto teve como objetivo o desenvolvimento de um projeto prático com Ard
 <a name="id03"></a><img style="width:500px;" src="https://github.com/marMroc/FreeRTOS_Semaforo/blob/main/img_freertos.jpg" >
 ## Bibliotecas: <a name="id04"></a>
 - FreeRTOS (by Richard Barry) versão 10.0.0-10
- Possível instalar no FreeRTOS IDE apenas realizando a busca pelo nome
+ - - Possível instalar no FreeRTOS IDE apenas realizando a busca pelo nome
 - Sensor Ultrassônico (HC-SR04)
- Disponível no reposítório: https://github.com/makerhero/Ultrasonic
+ - -  Disponível no reposítório: https://github.com/makerhero/Ultrasonic
 
 ## Desafios: <a name="id05"></a>
 
