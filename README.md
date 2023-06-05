@@ -1,5 +1,4 @@
 # FreeRTOS_Semaforo
-Projeto prático de monitoramento de distância e identificação de gases inflamáveis, enviando estes dados para um monitor LCD
 
 # 📋 Indíce
 - [Resumo](#id01)
