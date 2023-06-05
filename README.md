@@ -20,12 +20,12 @@ Este projeto teve como objetivo o desenvolvimento de um projeto prático com Ard
 - Sensor de gases inflamáveis MQ-2
 
 ## Circuito esquemático: 
-<a name="id03"></a><img src="https://drive.google.com/file/d/1iOCnT6SEay23cCPE2BwwkdBkSckxm_3v/view?usp=drive_link">
+<a name="id03"></a><img src="https://github.com/marMroc/FreeRTOS_Semaforo/blob/main/img_projeto_freertos.jpg">
 ## Bibliotecas: <a name="id04"></a>
 - FreeRTOS (by Richard Barry) versão 10.0.0-10
  Possível instalar no FreeRTOS IDE apenas realizando a busca pelo nome
 - Sensor Ultrassônico (HC-SR04)
- Disponível no reposítório https://github.com/makerhero/Ultrasonic
+ Disponível no reposítório: https://github.com/makerhero/Ultrasonic
 
 ## Desafios: <a name="id05"></a>
 
